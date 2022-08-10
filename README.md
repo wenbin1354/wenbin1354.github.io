@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>The Rise of Soccer in The US</title>
+  <title>WenBin Lin</title>
   <link href='style.css' rel='stylesheet'>
   <link href='style-library.css' rel='stylesheet'>
 </head>

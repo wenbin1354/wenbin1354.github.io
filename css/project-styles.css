@@ -1,0 +1,107 @@
+
+ul, li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header{
+  margin-top: -70px;
+  margin-bottom: 50px;
+}
+
+h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-weight: 700;
+}
+
+
+img {
+  width: 100%;
+  overflow: hidden;
+}
+
+html,body {
+  background: #1f2122;
+  font-family: 'Poppins', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+/* 
+---------------------------------------------
+Project Style
+--------------------------------------------- 
+*/
+
+.projects {
+  margin-top: 60px;
+  padding: 30px;
+  background-color: #1f2122;
+  border-radius: 23px;
+}
+
+.projects .item {
+  background-color: #27292a;
+  padding: 30px 15px;
+  border-radius: 23px;
+  margin-bottom: 30px;
+}
+
+.projects .item .item {
+  padding: 0px;
+  border-radius: 0px;
+  background-color: transparent;
+  margin-bottom: 0px;
+}
+
+.projects .item img {
+  border-radius: 23px;
+}
+
+.projects .item h4 {
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  display: inline-block;
+}
+
+.projects .item span {
+  color: #666;
+  display: block;
+  margin-top: 7px;
+  font-weight: 400;
+}
+
+.projects .item ul {
+  float: right;
+  margin-top: 20px;
+}
+
+.projects .item ul li {
+  text-align: right;
+  color: #fff;
+  font-size: 14px;
+}
+
+.projects .item ul li:first-child i {
+  color: yellow;
+}
+
+.projects .item ul li:last-child i {
+  color: #ec6090;
+}
+
+body {
+  overflow-x: hidden;
+}
+

@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3125f6e.css",
+    "main.js": "/static/js/main.8e56caab.js",
+    "static/media/header-bg.jpg": "/static/media/header-bg.a3406a9a5f2c89ac9840.jpg",
+    "static/media/bookshare.jpg": "/static/media/bookshare.4e3039eaf8f3466beddf.jpg",
+    "static/media/fileupload.jpg": "/static/media/fileupload.b95bbd1d395818645294.jpg",
+    "static/media/cryptoscroller.jpg": "/static/media/cryptoscroller.cedc5d66e7fa575799d8.jpg",
+    "static/media/sql.svg": "/static/media/sql.ab334bdc884b6d0d6865676a6e29d268.svg",
+    "static/media/jquery.svg": "/static/media/jquery.3b8ad1b8e0cfd4079e5168f030abf2a5.svg",
+    "static/media/react.svg": "/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/docker.svg": "/static/media/docker.6588c88a4899bf5d81884f5b9b5a053f.svg",
+    "static/media/marker.svg": "/static/media/marker.7dc3697f196044a47621cc1c3a6dc9d1.svg",
+    "static/media/matlab.svg": "/static/media/matlab.10bbd970f985fc964b957c592da0945b.svg",
+    "static/media/python.svg": "/static/media/python.906c53fc47015d2566e33b9607acdc07.svg",
+    "static/media/node.svg": "/static/media/node.10c9e2aa0ca7edf36fceae25fec038a1.svg",
+    "static/media/redux.svg": "/static/media/redux.f4ae3062889088d8076365c84221f2ca.svg",
+    "static/media/csharp.svg": "/static/media/csharp.097ef7230cd37f231bc42c51f67939fb.svg",
+    "static/media/js.svg": "/static/media/js.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/email.svg": "/static/media/email.5262e1cb4cb35e7a8c362d993e1e792f.svg",
+    "static/media/github.svg": "/static/media/github.afa9e6691156a69e989e7b600dc97dcf.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.fcbbf4f49fd6a7320ab81cc770907eac.svg",
+    "static/media/ts.svg": "/static/media/ts.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
+    "static/media/cpp.svg": "/static/media/cpp.f5ed104b00a745b1e7719024c2d6ce30.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.a3728a0286bd6b8b117720381f3c0282.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.902a170536b068ea40804375cd8237c5.svg",
+    "static/media/html.svg": "/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.4e27bcc811520e88e41cd740bb3ffae4.svg",
+    "static/media/phone.svg": "/static/media/phone.5398ab513d820cee195b34dfd4396197.svg",
+    "main.f3125f6e.css.map": "/static/css/main.f3125f6e.css.map",
+    "main.8e56caab.js.map": "/static/js/main.8e56caab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3125f6e.css",
+    "static/js/main.8e56caab.js"
+  ]
+}

@@ -55,7 +55,7 @@ export default function Resume() {
 				</div>
 				<div className="mt-8">
 					<a
-						href="../assets/Normal_Resume_WenBin_ 2024.pdf" // Path to the resume file
+						href="https://github.com/wenbin1354/wenbin1354.github.io/blob/main/app/assets/Normal_Resume_WenBin_%202024.pdf" // Path to the resume file
 						download="WenBin_Resume.pdf" // Sets the filename for the downloaded file
 						className="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-2 px-4 rounded inline-flex items-center transition duration-300 ease-in-out transform hover:scale-105"
 					>
